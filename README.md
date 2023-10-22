@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning ReactJS and NextJS
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pomfuu&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pomfuu&theme=github_dark)
 
 
 <!--
