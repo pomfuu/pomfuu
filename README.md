@@ -1,6 +1,6 @@
 ### Hi there, Nice to meet you 👋 
 
-🌱 I’m currently learning ReactJS and NextJS
+🌱 dead inside
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pomfuu&theme=github_dark)
 
