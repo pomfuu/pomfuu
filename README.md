@@ -1,9 +1,4 @@
-### Hi there, Nice to meet you 👋 
-
 🌱 dead inside
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pomfuu&theme=github_dark)
-
 
 <!--
 **pomfuu/pomfuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
